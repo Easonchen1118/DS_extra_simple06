@@ -1,5 +1,5 @@
 #include <stdio.h>
-//季節判定
+//季節判定https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30754
 int main(){
     int inpt;
     scanf("%d", &inpt);
